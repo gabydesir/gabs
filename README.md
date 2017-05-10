@@ -6,7 +6,7 @@ Tonight, you'll be practicing using `create-react-app`.  Here's what you'll do:
 - Make the page say something other than Welcome to React!
 - 🚨🚨🚨🚨 Then, go finish all your outstanding homeworks 😉
 
-![keepcalm](./assets/keepcalm)
+![keepcalm](./assets/keepcalm.jpg)
 
 ## 🚀 Completion looks like:
 
