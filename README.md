@@ -4,9 +4,9 @@ Tonight, you'll be practicing using `create-react-app`.  Here's what you'll do:
 
 - Run `create-react-app` in this directory to make a new react app.
 - Make the page say something other than Welcome to React!
-- 🚨🚨🚨🚨 Then, go finish all your outstanding homeworks 😉
+- 🚨 Then, go finish all your outstanding homeworks 😉
 
-![keepcalm](./assets/keepcalm.jpg)
+![keepcalm](./assets/keepcalm.png)
 
 ## 🚀 Completion looks like:
 
@@ -17,7 +17,7 @@ Tonight, you'll be practicing using `create-react-app`.  Here's what you'll do:
 
 - An issue ticket created on the repo `ada-students` [here](https://git.generalassemb.ly/nyc-wdi-ada/ada-students/issues/new)
 - A link to your fork of this repository
-- 🚨🚨🚨🚨 Issues for all your outstanding homeworks!
+- 🚨 Issues for all your outstanding homeworks!
 - Completion, comfort, wins, losses, questions... you know the drill.
 
 ## This homework is due 🚨 11PM ON WEDNESDAY NIGHT!!! 🚨
