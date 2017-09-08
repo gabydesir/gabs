@@ -1,0 +1,44 @@
+body {
+  background-image: url('https://www.123freevectors.com/wp-content/original/2076-yellow-orange-watercolor-background.jpg');
+}
+
+h2 {
+  text-align: center;
+  font-size: 30px;
+}
+.gabs-header {
+  padding: -250px;
+}
+/*body {
+  background-repeat: no-repeat;
+}*/
+img {
+  height: 450px;
+  display: block;
+  border-radius: 50px;
+  margin: auto;
+}
+h3{
+  text-align: center;
+  font-size: 25px;
+  font-style: italic;
+  color: black;
+  text-shadow: 3px 2px white;
+  font-family: cursive;
+  margin: 70px;
+}
+h4{
+  text-align: center;
+  font-size: 20px;
+}
+.gabs-p {
+  text-indent: 2px;
+  font-size: 25px;
+  margin: 70px;
+  text-align: justify;
+  position: absolute;
+  font-family: times;
+  color: black;
+  text-shadow: 3px 2px white;
+}
+
